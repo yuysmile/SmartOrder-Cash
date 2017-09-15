@@ -1,0 +1,79 @@
+<extend name="Public/base"/>
+	<block name="body">
+	<label>桌号：{$tid}</label>
+		<!-- 数据列表 -->
+		<div class="data-table table-striped">
+			<table class="">
+				<thead>
+					<tr>					
+						<th>菜品名称</th>
+						<th>单价</th>
+						<th>数量</th>
+						<th>口味</th>
+						<th>是否上菜</th>
+						<th>操作</th>
+					</tr>
+				</thead>
+				<tbody>
+					<foreach name="orderList" item="v">
+						<tr>					
+							<td>{$v.name}</td>
+							<td>{$v.price}</td>	
+							<td>{$v.num}</td>
+							<td>{$v.taste}</td>
+							<td>
+								<if condition="$v.isUp eq '1'">
+									已上菜
+								<else />
+									未上菜
+								</if>
+							</td>
+							<td><a href="{:U('edit')}?">编辑</a>|
+								<a href="{:U('del')}?">删除</a>
+							</td>
+						</tr>
+					</foreach>
+				</tbody>
+			</table>
+        
+</div>
+        <br/>
+        <lable>总计金额：{$total_money}元</lable>
+        <br/>
+        <br/>
+        <form method="post" action="{:U('pay')}">
+        	<input type="hidden" name="oid" value="{$oid}">
+        	<input type="hidden" name="tid" value="{$tid}">
+            <label>支付方式：</label>
+            </br>
+            <input type="button" name="pay_type" value="现金" onclick="cashPay()">
+            <input type="button" name="pay_type" value="刷卡" onclick="posPay()">
+            <input type="button" name="pay_type" value="微信/支付宝" onclick="mobilePay()">
+            </br>
+            <input id="cash" name="cash" type="text">
+            </br>
+            </br>
+            <button type="submit">结账</button>
+        </form>
+
+</br>
+</br>
+<input type="button" onclick="history.back();" value="返回上一级">
+<script type="text/javascript">
+	function cashPay()
+	{
+		alert("请在文本框中输入金额！");
+	}
+	function posPay()
+	{
+		alert("请使用POS机结账！");
+
+	}
+	function mobilePay()
+	{
+		alert("请打开手机支付二维码界面！");
+
+	}
+</script>
+</block>
+</extend>

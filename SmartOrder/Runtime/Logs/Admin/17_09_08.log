@@ -1,0 +1,613 @@
+[ 2017-09-08T08:47:31+08:00 ] 127.0.0.1 /smartorder/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+
+[ 2017-09-08T08:47:31+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.003791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004650s ]
+
+[ 2017-09-08T08:47:31+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001172s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005787s ]
+
+[ 2017-09-08T08:47:39+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2017-09-08T08:47:41+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-09-08T08:47:41+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html?0.2844060714598722
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001030s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005762s ]
+
+[ 2017-09-08T08:47:47+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2017-09-08T08:47:52+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-09-08T08:47:52+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html?0.6587395283543662
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004979s ]
+
+[ 2017-09-08T08:47:59+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2017-09-08T08:48:02+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html?0.9920017557443732
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001007s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.003992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005066s ]
+
+[ 2017-09-08T08:48:07+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2017-09-08T09:28:27+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+
+[ 2017-09-08T09:28:27+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html?0.28176573187936227
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005356s ]
+
+[ 2017-09-08T09:28:35+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2017-09-08T10:03:59+08:00 ] 127.0.0.1 /smartorder/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+
+[ 2017-09-08T10:03:59+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001309s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006302s ]
+
+[ 2017-09-08T10:03:59+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001836s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006628s ]
+
+[ 2017-09-08T10:04:06+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+SQL: SHOW COLUMNS FROM `so_member` [ RunTime:0.0042s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status` FROM `so_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `so_action` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `so_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `so_member` [ RunTime:0.0038s ]
+SQL: SELECT `nickname` FROM `so_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `so_action_log` [ RunTime:0.0036s ]
+SQL: INSERT INTO `so_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES ('1','1','2130706433','member','1','1504836246','adminåœ¨2017-09-08 10:04ç™»å½•äº†åŽå°') [ RunTime:0.0015s ]
+SQL: SELECT * FROM `so_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 1 C:\xampp\htdocs\SmartOrder\Application\Common\Common\function.php ç¬¬ 679 è¡Œ.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given C:\xampp\htdocs\SmartOrder\Application\Common\Common\function.php ç¬¬ 679 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `so_action_log` WHERE `action_id` = 1 AND `user_id` = 1 AND `create_time` > 1504749846 LIMIT 1   [ RunTime:0.0037s ]
+SQL: UPDATE `so_member` SET `login`=`login`+1,`last_login_time`='1504836246',`last_login_ip`='2130706433' WHERE `uid` = 1 [ RunTime:0.0005s ]
+
+[ 2017-09-08T10:04:06+08:00 ] 127.0.0.1 /smartorder/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+SQL: SHOW COLUMNS FROM `so_menu` [ RunTime:0.0103s ]
+SQL: SELECT `id`,`title`,`url` FROM `so_menu` WHERE `pid` = 0 AND `hide` = 0 AND `is_dev` = 0 ORDER BY sort asc  [ RunTime:0.0007s ]
+SQL: SELECT `pid` FROM `so_menu` WHERE ( pid !=0 AND url like '%Index/index%' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001478s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006120s ]
+
+[ 2017-09-08T10:05:00+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `so_member` [ RunTime:0.0104s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000954s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005784s ]
+
+[ 2017-09-08T10:05:02+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001219s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001232s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005491s ]
+
+[ 2017-09-08T10:05:02+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001339s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.005546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007011s ]
+
+[ 2017-09-08T10:05:16+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+SQL: SHOW COLUMNS FROM `so_member` [ RunTime:0.0040s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status` FROM `so_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `so_action` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `so_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `so_action_log` [ RunTime:0.0035s ]
+SQL: INSERT INTO `so_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES ('1','1','2130706433','member','1','1504836316','adminåœ¨2017-09-08 10:05ç™»å½•äº†åŽå°') [ RunTime:0.0003s ]
+SQL: SELECT * FROM `so_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 1 C:\xampp\htdocs\SmartOrder\Application\Common\Common\function.php ç¬¬ 679 è¡Œ.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given C:\xampp\htdocs\SmartOrder\Application\Common\Common\function.php ç¬¬ 679 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `so_action_log` WHERE `action_id` = 1 AND `user_id` = 1 AND `create_time` > 1504749916 LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `so_member` SET `login`=`login`+1,`last_login_time`='1504836316',`last_login_ip`='2130706433' WHERE `uid` = 1 [ RunTime:0.0003s ]
+
+[ 2017-09-08T10:05:16+08:00 ] 127.0.0.1 /smartorder/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+SQL: SHOW COLUMNS FROM `so_menu` [ RunTime:0.0037s ]
+SQL: SELECT `id`,`title`,`url` FROM `so_menu` WHERE `pid` = 0 AND `hide` = 0 AND `is_dev` = 0 ORDER BY sort asc  [ RunTime:0.0004s ]
+SQL: SELECT `pid` FROM `so_menu` WHERE ( pid !=0 AND url like '%Index/index%' ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001410s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006215s ]
+
+[ 2017-09-08T10:05:22+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `so_member` [ RunTime:0.0101s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006744s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006785s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000894s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005262s ]
+
+[ 2017-09-08T10:05:24+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008524s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008582s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000826s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005120s ]
+
+[ 2017-09-08T10:05:24+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004883s ]
+
+[ 2017-09-08T10:05:24+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001291s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.006101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007574s ]
+
+[ 2017-09-08T10:05:33+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+SQL: SHOW COLUMNS FROM `so_member` [ RunTime:0.0037s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status` FROM `so_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `so_action` [ RunTime:0.0034s ]
+SQL: SELECT * FROM `so_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `so_action_log` [ RunTime:0.0034s ]
+SQL: INSERT INTO `so_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES ('1','1','2130706433','member','1','1504836332','adminåœ¨2017-09-08 10:05ç™»å½•äº†åŽå°') [ RunTime:0.0003s ]
+SQL: SELECT * FROM `so_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 1 C:\xampp\htdocs\SmartOrder\Application\Common\Common\function.php ç¬¬ 679 è¡Œ.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given C:\xampp\htdocs\SmartOrder\Application\Common\Common\function.php ç¬¬ 679 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `so_action_log` WHERE `action_id` = 1 AND `user_id` = 1 AND `create_time` > 1504749932 LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `so_member` SET `login`=`login`+1,`last_login_time`='1504836332',`last_login_ip`='2130706433' WHERE `uid` = 1 [ RunTime:0.0003s ]
+
+[ 2017-09-08T10:05:33+08:00 ] 127.0.0.1 /smartorder/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001268s ]
+SQL: SHOW COLUMNS FROM `so_menu` [ RunTime:0.0049s ]
+SQL: SELECT `id`,`title`,`url` FROM `so_menu` WHERE `pid` = 0 AND `hide` = 0 AND `is_dev` = 0 ORDER BY sort asc  [ RunTime:0.0005s ]
+SQL: SELECT `pid` FROM `so_menu` WHERE ( pid !=0 AND url like '%Index/index%' ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013128s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001045s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005830s ]
+
+[ 2017-09-08T10:05:35+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+SQL: SHOW COLUMNS FROM `so_member` [ RunTime:0.0097s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007087s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004181s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005068s ]
+
+[ 2017-09-08T10:05:37+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000766s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.005448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006277s ]
+
+[ 2017-09-08T10:05:37+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000906s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005888s ]
+
+[ 2017-09-08T10:05:45+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+
+[ 2017-09-08T10:05:46+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html?0.7128631100876464
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000948s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.005370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006410s ]
+
+[ 2017-09-08T10:05:49+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001261s ]
+
+[ 2017-09-08T10:05:49+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/verify.html?0.032202748653911595
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000991s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.003895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004997s ]
+
+[ 2017-09-08T10:06:00+08:00 ] 127.0.0.1 /smartorder/admin.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+NOTIC: [8] Undefined index: lite C:\xampp\htdocs\SmartOrder\ThinkPHP\Library\Think\Db.class.php ç¬¬ 37 è¡Œ.
+SQL: SHOW COLUMNS FROM `so_member` [ RunTime:0.0050s ]
+SQL: SELECT `uid`,`nickname`,`sex`,`birthday`,`qq`,`score`,`login`,`reg_ip`,`reg_time`,`last_login_ip`,`last_login_time`,`status` FROM `so_member` WHERE `uid` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `so_action` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `so_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `so_action_log` [ RunTime:0.0040s ]
+SQL: INSERT INTO `so_action_log` (`action_id`,`user_id`,`action_ip`,`model`,`record_id`,`create_time`,`remark`) VALUES ('1','1','2130706433','member','1','1504836360','adminåœ¨2017-09-08 10:06ç™»å½•äº†åŽå°') [ RunTime:0.0003s ]
+SQL: SELECT * FROM `so_action` WHERE `name` = 'user_login' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 1 C:\xampp\htdocs\SmartOrder\Application\Common\Common\function.php ç¬¬ 679 è¡Œ.
+NOTIC: [2] array_key_exists() expects parameter 2 to be array, null given C:\xampp\htdocs\SmartOrder\Application\Common\Common\function.php ç¬¬ 679 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `so_action_log` WHERE `action_id` = 1 AND `user_id` = 1 AND `create_time` > 1504749960 LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `so_member` SET `login`=`login`+1,`last_login_time`='1504836360',`last_login_ip`='2130706433' WHERE `uid` = 1 [ RunTime:0.0003s ]
+
+[ 2017-09-08T10:06:00+08:00 ] 127.0.0.1 /smartorder/admin.php/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `so_menu` [ RunTime:0.0095s ]
+SQL: SELECT `id`,`title`,`url` FROM `so_menu` WHERE `pid` = 0 AND `hide` = 0 AND `is_dev` = 0 ORDER BY sort asc  [ RunTime:0.0004s ]
+SQL: SELECT `pid` FROM `so_menu` WHERE ( pid !=0 AND url like '%Index/index%' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001330s ]
+INFO: Run Common\Behavior\CronRunBehavior [ RunTime:0.004887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006315s ]
+
